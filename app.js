@@ -152,7 +152,7 @@ var html1 = '<title> hello-mongoose: MongoLab MongoDB Mongoose Node.js Demo on H
 <style> body {color: #394a5f; font-family: sans-serif} </style> \
 </head> \
 <body> \
-<h1> hello-mongoose: MongoLab MongoDB Mongoose Node.js Demo on Heroku </h1> \
+<h1> Welcome! Success deploying hello-mongoose: MongoLab MongoDB Mongoose Node.js Demo on Heroku </h1> \
 See the <a href="https://devcenter.heroku.com/articles/nodejs-mongoose">supporting article on the Dev Center</a> to learn more about data modeling with Mongoose. \
 <br\> \
 <br\> \
